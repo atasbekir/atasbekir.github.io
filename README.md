@@ -1,2 +1,1 @@
-# atasbekir.github.io
-Github Pages
+# My Github Page
